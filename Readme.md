@@ -7,16 +7,16 @@
 ---
 
 ## Contents ✨
-- [App Development]()
-- [Artificial Intelligence]()
-- [Blockchain]()
-- [Cloud]()
-- [Competitive Coding]()
-- [Design]()
-- [Electronics and Electrical]()
-- [Open Source]()
-- [Web Development]()
-- [Quick Hacks]()
+- [App Development](#app-development-)
+- [Artificial Intelligence](#artificial-intelligence-)
+- [Blockchain](#blockchain-)
+- [Cloud](cloud-%EF%B8%8F)
+- [Competitive Coding](#competitive-coding-)
+- [Design](#design-)
+- [Electronics and Electrical](#electronics-and-electrical-)
+- [Open Source](#open-source-)
+- [Web Development](#web-development-)
+- [Quick Hacks](#quick-hacks-)
 
 
 
@@ -31,7 +31,7 @@
 |iOS          |[Link](./AppDevelopment/iOS.md)        |
 |React Native |[Link](./AppDevelopment/ReactNative.md)|
 
-**[⬆ To Contents](#contents-sparkles)**
+**[🔼 Contents](#contents-)**
 
 
   
@@ -47,7 +47,7 @@
 |Computer Vision                    |[Link](./AppDevelopment/ComputerVision.md)                 |
 
 
-**[⬆ To Contents](#contents-sparkles)**
+**[🔼 Contents](#contents-)**
 
 ## Blockchain ⛓
 
@@ -56,7 +56,7 @@
 |Introduction |[Link](./Blockchain/IntroBct.md)   |
 
 
-**[⬆ To Contents](#contents-sparkles)**
+**[🔼 Contents](#contents-)**
 
 ## Cloud ☁️
 
@@ -69,7 +69,7 @@
 |Heroku                              |[Link](./Cloud/Heroku.md)              |
 
 
-**[⬆ To Contents](#contents-sparkles)**
+**[🔼 Contents](#contents-)**
 
 
 ## Competitive Coding 🧑‍💻
@@ -79,7 +79,7 @@
 |Introduction |[Link](./CompetetiveCoding/IntroCC.md)   |
 
 
-**[⬆ To Contents](#contents-sparkles)**
+**[🔼 Contents](#contents-)**
 
 
 ## Design 🎨
@@ -88,7 +88,7 @@
 |-------------|----------|
 |Introduction |[Link](./Design/Intro.md)   |
 
-**[⬆ To Contents](#contents-sparkles)**
+**[🔼 Contents](#contents-)**
 
 ## Electronics and Electrical 💡
 
@@ -104,34 +104,34 @@
 |Introduction |[Link](./Opensource/IntroOpenSource.md)   |
 |Git & Github |[Link](./OpenSource/Git&Github.md)|
 
-**[⬆ To Contents](#contents-sparkles)**
+**[🔼 Contents](#contents-)**
 
 
-## Web Development- Frontend 💻
+## Web Development 💻
 
 |Stack        |Link      |
 |-------------|----------|
 |Introduction |[Link](./WebDevelopment/IntroWeb.md)   |
 |||
-|Frontend||
+|Frontend - ||
 |HTML          |[Link](./WebDevelopment-Frontend/HTML.md) |
 |CSS           |[Link](./WebDevelopment-Frontend/CSS.md) |
 |JS            |[Link](./WebDevelopment-Frontend/JS.md)   |
 |React         |[Link](./WebDevelopment-Frontend/React.md)|
 |||
-| Backend ||
+| Backend - ||
 |Node          |[Link](./WebDevelopment-Backend/Node.md) |
 |Django          |[Link](./WebDevelopment-Backend/Django.md) |
 |Flask          |[Link](./WebDevelopment-Backend/Flask.md) |
 
-**[⬆ To Contents](#contents-sparkles)**
+**[🔼 Contents](#contents-)**
 
 ## Quick hacks 🛠
 
 |Stack        |Link      |
 |-------------|----------|
 
-**[⬆ To Contents](#contents-sparkles)**
+**[🔼 Contents](#contents-)**
 
  
 ---
