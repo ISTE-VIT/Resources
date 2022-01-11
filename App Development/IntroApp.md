@@ -12,10 +12,10 @@ The act or process of designing the application for mobile devices such as perso
 |------|-------|----|
 |1.|Choosing Your Platform||
 |2.|Choosing A Language & Framework According To The Platform||
-|2.1|Android - (Natively for android OS)|[Link]()|
-|2.2|Flutter - (Cross Platform Development)|[Link]()|
-|2.3|iOS - (Natively for iOS)|[Link]()|
-|2.4|React Native - (Cross Platform Development)|[Link]()|
+|2.1|Android - (Natively for android OS)|[Link](https://github.com/ISTE-VIT/Resources/blob/master/App%20Development/Android.md)|
+|2.2|Flutter - (Cross Platform Development)|[Link](https://github.com/ISTE-VIT/Resources/blob/master/App%20Development/Flutter.md)|
+|2.3|iOS - (Natively for iOS)|[Link](https://github.com/ISTE-VIT/Resources/blob/master/App%20Development/iOS.md)|
+|2.4|React Native - (Cross Platform Development)|[Link](https://github.com/ISTE-VIT/Resources/blob/master/App%20Development/ReactNative.md)|
 |3.|Understanding Software Design Patterns||
 |4.|Marketing your application||
 

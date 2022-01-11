@@ -25,11 +25,11 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |[Link](./AppDevelopment/IntroApp.md)   |
-|Android      |[Link](./AppDevelopment/Android.md)    |
-|Flutter      |[Link](./AppDevelopment/Flutter.md)    |
-|iOS          |[Link](./AppDevelopment/iOS.md)        |
-|React Native |[Link](./AppDevelopment/ReactNative.md)|
+|Introduction |[Link](./App%20Development/IntroApp.md)   |
+|Android      |[Link](./App%20Development/Android.md)    |
+|Flutter      |[Link](./App%20Development/Flutter.md)    |
+|iOS          |[Link](./App%20Development/iOS.md)        |
+|React Native |[Link](./App%20Development/ReactNative.md)|
 
 **[🔼 Contents](#contents-)**
 
@@ -39,12 +39,12 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction                       |[Link](./ArtificialIntelligence/IntroAI.md)                 |
-|Kaggle                             |[Link](./ArtificialIntelligence/Kaggle.md)                 |
-|Data Science                       |[Link](./ArtificialIntelligence/DataScience.md)            |
-|Machine Learning                   |[Link](./ArtificialIntelligence/MachineLearning.md)        |
-|Deep Learning                      |[Link](./AppDevelopment/DeepLearning.md)                   |
-|Computer Vision                    |[Link](./AppDevelopment/ComputerVision.md)                 |
+|Introduction                       |[Link](./Artificial%20Intelligence/IntroAI.md)                 |
+|Kaggle                             |[Link](./Artificial%20Intelligence/Kaggle.md)                 |
+|Data Science                       |[Link](./Artificial%20Intelligence/DataScience.md)            |
+|Machine Learning                   |[Link](./Artificial%20Intelligence/MachineLearning.md)        |
+|Deep Learning                      |[Link](./App%20Development/DeepLearning.md)                   |
+|Computer Vision                    |[Link](./App%20Development/ComputerVision.md)                 |
 
 
 **[🔼 Contents](#contents-)**
@@ -76,7 +76,7 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |[Link](./CompetetiveCoding/IntroCC.md)   |
+|Introduction |[Link](./Competetive%20Coding/IntroCC.md)   |
 
 
 **[🔼 Contents](#contents-)**
@@ -94,7 +94,7 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |[Link](./ElectronicsandElectrical/IntroEnE.md)   |
+|Introduction |[Link](./Electronics%20and%20Electrical/IntroEnE.md)   |
 
 
 ## Open Source 📦
@@ -130,6 +130,7 @@
 
 |Stack        |Link      |
 |-------------|----------|
+|Quick Hacks|[Link](./Quick%20Hacks/QuickHacks.md)|
 
 **[🔼 Contents](#contents-)**
 

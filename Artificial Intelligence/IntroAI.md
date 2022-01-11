@@ -7,7 +7,7 @@
 # Artificial Intelligence
 
 Artificial intelligence (AI) refers to intelligence demonstrated by machines as opposed to natural intelligence demonstrated by animals such as humans.
-According to leading AI textbooks, the area is defined as the study of "intelligent agents": any system that senses its surroundings and performs actions that maximise its chances of attaining its goals.
+According to leading AI textbooks, the area is defined as the study of "intelligent agents": any system that senses its surroundings and performs actions that maximize its chances of attaining its goals.
 Some popular reports use the word "artificial intelligence" to denote robots that simulate "cognitive" 
 functions that humans connect with the human mind, such as "learning" and "problem solving," however prominent AI researchers reject this definition.
 
@@ -15,14 +15,13 @@ functions that humans connect with the human mind, such as "learning" and "probl
 
 | S.No | Topics|Link|
 |------|-------|----|
-|1|Choose a Programming Language|[Link]()|
-|-|Computer Vision & NLP|[Link]()|
-|2|Learn About Kaggle|[Link]()|
-|3|Data Science|[Link]()|
-|4|Machine Learning|[Link]()|
-|5|Deep Learning|[Link]()|
-|6|Model Deployment|[Link]()|
-|7|Reinforcement Learning|[Link]()|
+|1|Choose a Programming Language||
+|-|Computer Vision & NLP|[Link](./ComputerVisionNLP.md)|
+|2|Learn About Kaggle|[Link](./Kaggle.md)|
+|3|Data Science|[Link](./DataScience.md)|
+|4|Machine Learning|[Link](./MachineLearning.md)|
+|5|Deep Learning|[Link](./DeepLearning.md)|
+|6|Model Deployment|[Link](./ModelDeployment.md)|
 
 
 
