@@ -44,7 +44,7 @@
 |Data Science                       |[Link](./Artificial%20Intelligence/DataScience.md)            |
 |Machine Learning                   |[Link](./Artificial%20Intelligence/MachineLearning.md)        |
 |Deep Learning                      |[Link](./Artificial%20Intelligence/DeepLearning.md)                   |
-|Computer Vision                    |[Link](./Artificial%20Intelligence/ComputerVisionMLP.md)                 |
+|Computer Vision                    |[Link](./Artificial%20Intelligence/ComputerVisionNLP.md)                 |
 
 
 **[🔼 Contents](#contents-)**
