@@ -136,7 +136,6 @@
 
  
 ---
-PRs are welcome, want to contribute check out our [Contribution Instructions]()
 
 Please Give a ⭐ if you love this repository to show your support 🥳
 
