@@ -43,8 +43,8 @@
 |Kaggle                             |[Link](./Artificial%20Intelligence/Kaggle.md)                 |
 |Data Science                       |[Link](./Artificial%20Intelligence/DataScience.md)            |
 |Machine Learning                   |[Link](./Artificial%20Intelligence/MachineLearning.md)        |
-|Deep Learning                      |[Link](./App%20Development/DeepLearning.md)                   |
-|Computer Vision                    |[Link](./App%20Development/ComputerVision.md)                 |
+|Deep Learning                      |[Link](./Artificial%20Intelligence/DeepLearning.md)                   |
+|Computer Vision                    |[Link](./Artificial%20Intelligence/ComputerVisionMLP.md)                 |
 
 
 **[🔼 Contents](#contents-)**
@@ -53,7 +53,7 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |[Link](./Blockchain/IntroBct.md)   |
+|Introduction |Link   |
 
 
 **[🔼 Contents](#contents-)**
@@ -62,11 +62,11 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction 			     |[Link](./Cloud/IntroCloud.md)   |
-|Azure                               |[Link](./Cloud/Azure.md)               |
-|AWS                                 |[Link](./Cloud/AWS.md)                 |
-|GCP                                 |[Link](./Cloud/GCP.md)                 |
-|Heroku                              |[Link](./Cloud/Heroku.md)              |
+|Introduction 			     |Link  |
+|Azure                               |Link               |
+|AWS                                 |Link               |
+|GCP                                 |Link            |
+|Heroku                              |Link           |
 
 
 **[🔼 Contents](#contents-)**
@@ -76,7 +76,7 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |[Link](./Competetive%20Coding/IntroCC.md)   |
+|Introduction |Link   |
 
 
 **[🔼 Contents](#contents-)**
@@ -86,7 +86,7 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |[Link](./Design/Intro.md)   |
+|Introduction |Link   |
 
 **[🔼 Contents](#contents-)**
 
@@ -94,15 +94,15 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |[Link](./Electronics%20and%20Electrical/IntroEnE.md)   |
+|Introduction |Link   |
 
 
 ## Open Source 📦
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |[Link](./Opensource/IntroOpenSource.md)   |
-|Git & Github |[Link](./OpenSource/Git&Github.md)|
+|Introduction |Link   |
+|Git & Github |Link|
 
 **[🔼 Contents](#contents-)**
 
@@ -111,18 +111,18 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |[Link](./WebDevelopment/IntroWeb.md)   |
+|Introduction |[Link](./Web%20Development/IntroWeb.md)   |
 |||
 |Frontend - ||
-|HTML          |[Link](./WebDevelopment-Frontend/HTML.md) |
-|CSS           |[Link](./WebDevelopment-Frontend/CSS.md) |
-|JS            |[Link](./WebDevelopment-Frontend/JS.md)   |
-|React         |[Link](./WebDevelopment-Frontend/React.md)|
+|HTML          |Link |
+|CSS           |Link |
+|JS            |Link   |
+|React         |Link|
 |||
 | Backend - ||
-|Node          |[Link](./WebDevelopment-Backend/Node.md) |
-|Django          |[Link](./WebDevelopment-Backend/Django.md) |
-|Flask          |[Link](./WebDevelopment-Backend/Flask.md) |
+|Node          |Link|
+|Django          |Link |
+|Flask          |Link |
 
 **[🔼 Contents](#contents-)**
 
