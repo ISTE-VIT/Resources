@@ -13,7 +13,6 @@
 - [Cloud](cloud-%EF%B8%8F)
 - [Competitive Coding](#competitive-coding-)
 - [Design](#design-)
-- [Electronics and Electrical](#electronics-and-electrical-)
 - [Open Source](#open-source-)
 - [Web Development](#web-development-)
 - [Quick Hacks](#quick-hacks-)
@@ -83,14 +82,6 @@
 
 
 ## Design 🎨
-
-|Stack        |Link      |
-|-------------|----------|
-|Introduction |Link   |
-
-**[🔼 Contents](#contents-)**
-
-## Electronics and Electrical 💡
 
 |Stack        |Link      |
 |-------------|----------|
