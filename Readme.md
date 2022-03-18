@@ -12,7 +12,6 @@
 - [Blockchain](#blockchain-)
 - [Cloud](cloud-%EF%B8%8F)
 - [Competitive Coding](#competitive-coding-)
-- [Design](#design-)
 - [Open Source](#open-source-)
 - [Web Development](#web-development-)
 - [Quick Hacks](#quick-hacks-)
@@ -61,7 +60,6 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction 			     |Link  |
 |Azure                               |[Link](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/)               |
 |AWS                                 |[Link](https://docs.aws.amazon.com/)               |
 |GCP                                 |[Link](https://cloud.google.com/docs)            |
@@ -81,22 +79,11 @@
 
 **[🔼 Contents](#contents-)**
 
-
-## Design 🎨
-
-|Stack        |Link      |
-|-------------|----------|
-|Introduction |Link   |
-
-**[🔼 Contents](#contents-)**
-
-
 ## Open Source 📦
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |Link   |
-|Git & Github |Link|
+|Git & Github |[Link](https://www.youtube.com/watch?v=qfC-02baShs)|
 
 **[🔼 Contents](#contents-)**
 
