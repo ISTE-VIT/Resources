@@ -119,6 +119,10 @@ Front-end web development, also known as client-side development is the practice
 ||||
 |8|Deploy your Web Apps|[Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)|
 
+## Courses
+- [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/course/modern-react-bootcamp/)
+
 ## For Sample Codes Check Out Our Repositories:
 - [Projects Archive-WebDev | 2021](https://github.com/ISTE-VIT/Projects-Archive/tree/main/WebDev)
 
