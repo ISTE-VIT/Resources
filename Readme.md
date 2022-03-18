@@ -62,11 +62,9 @@
 |Stack        |Link      |
 |-------------|----------|
 |Introduction 			     |Link  |
-|Azure                               |Link               |
-|AWS                                 |Link               |
-|GCP                                 |Link            |
-|Heroku                              |Link           |
-
+|Azure                               |[Link](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/)               |
+|AWS                                 |[Link](https://docs.aws.amazon.com/)               |
+|GCP                                 |[Link](https://cloud.google.com/docs)            |
 
 **[🔼 Contents](#contents-)**
 
@@ -107,7 +105,7 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |[Link](./Web%20Development/IntroWeb.md)   |
+|Introduction |[Link](./Web%20Development/WebIntro.md)   |
 |||
 |Frontend - ||
 |HTML          |Link |
