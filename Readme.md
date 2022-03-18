@@ -75,7 +75,10 @@
 
 |Stack        |Link      |
 |-------------|----------|
-|Introduction |Link   |
+|CSES |[Link](https://cses.fi/problemset/list/)    |
+|A2oj |[Link](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)     |
+|ITMO |[Link](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)   |
+|Google sheets |[Link](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=84654839)    |
 
 
 **[🔼 Contents](#contents-)**
